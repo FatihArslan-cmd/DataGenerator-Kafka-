@@ -27,7 +27,12 @@ Ensure the following are installed and properly configured on your Ubuntu system
 
 
 ## Getting Started
+
 ### insert emp.csv and dept.csv files in your postgre db
+
+https://github.com/ozmen54/SWE307-2023/tree/main/Pro1/data
+
+[CSV files](https://github.com/ozmen54/SWE307-2023/tree/main/Pro1/data)
 ### 1. Start PostgreSQL
 
 Ensure PostgreSQL is running and contains a table named `emp` with user data.
