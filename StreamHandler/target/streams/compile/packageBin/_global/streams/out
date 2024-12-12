@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/fatih/DataGenerator/StreamHandler/target/scala-2.11/stream-handler_2.11-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StreamHandler$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/fatih/DataGenerator/StreamHandler/target/scala-2.11/classes/StreamHandler$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StreamHandler$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/fatih/DataGenerator/StreamHandler/target/scala-2.11/classes/StreamHandler$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ExpenseRecord.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/fatih/DataGenerator/StreamHandler/target/scala-2.11/classes/ExpenseRecord.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StreamHandler$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/fatih/DataGenerator/StreamHandler/target/scala-2.11/classes/StreamHandler$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StreamHandler.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/fatih/DataGenerator/StreamHandler/target/scala-2.11/classes/StreamHandler.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ExpenseRecord$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/fatih/DataGenerator/StreamHandler/target/scala-2.11/classes/ExpenseRecord$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

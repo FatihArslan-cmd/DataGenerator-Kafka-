@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0m/home/fatih/DataGenerator/StreamHandler/src/main/scala/SparkQueryHandler.scala:28:12: not found: value sum[0m
+[0m[[0m[31merror[0m] [0m[0m      .agg(sum($"payment").as("total_payment"))[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/fatih/DataGenerator/StreamHandler/src/main/scala/SparkQueryHandler.scala:36:43: value user_id is not a member of Any[0m
+[0m[[0m[31merror[0m] [0m[0m        println(s"Kullanıcı ID: ${expense.user_id}, Toplam Harcama: ${expense.total_payment}")[0m
+[0m[[0m[31merror[0m] [0m[0m                                          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/fatih/DataGenerator/StreamHandler/src/main/scala/SparkQueryHandler.scala:36:79: value total_payment is not a member of Any[0m
+[0m[[0m[31merror[0m] [0m[0m        println(s"Kullanıcı ID: ${expense.user_id}, Toplam Harcama: ${expense.total_payment}")[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                              ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
